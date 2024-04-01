@@ -1,4 +1,3 @@
-
 CREATE DATABASE olympics_db;
 
 USE olympics_db;
